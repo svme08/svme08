@@ -1,11 +1,11 @@
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi all! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/sviatlana-mezina-328251177/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://www.linkedin.com/in/sviatlana-mezina-328251177/" />
 </a>
 
 <br />
 
-Привет, меня зовут Светлана. Изучаю Git и ещё несколько интересных технологий.
+My name is Sviatlana. Learning Git and some other interesting techologies.
 
 <br />
 
@@ -21,9 +21,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-🚧 **Мои задачи на ближайшее время:**
+🚧 **My tasks for the near future:**
 <!-- TODO-IST:START -->
-* [x] Прокачать свой профиль на Github
-* [ ] Пройти курс по Git на Slurm
-* [ ] Создать свой первый проект на Github       
+* [x] Upgrade my profile on Github
+* [ ] Take a Git course on Slurm
+* [ ] Create your first project on Github       
 <!-- TODO-IST:END -->
