@@ -1,6 +1,6 @@
 ### Hi all
 <a href="https://www.linkedin.com/in/sviatlana-mezina-328251177/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://www.linkedin.com/in/sviatlana-mezina-328251177/" />
+  <img align="left" alt="LinkdeIn" width="100px" src="https://www.linkedin.com/in/sviatlana-mezina-328251177/" />
 </a>
 
 <br />
