@@ -25,5 +25,5 @@ My name is Sviatlana. Learning Git and some other interesting techologies.
 <!-- TODO-IST:START -->
 * [x] Upgrade my profile on Github
 * [ ] Take a Git course on Slurm
-* [ ] Create your first project on Github       
+* [ ] Create my first project on Github       
 <!-- TODO-IST:END -->
